@@ -47,7 +47,7 @@
     "@likecoin/vue-image-lightbox": "^5.5.4",
     "@nuxtjs/google-tag-manager": "^2.0.0",
     "@nuxtjs/sentry": "^2.0.0",
-    "aws-sdk": "^2.224.1",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "bignumber.js": "^7.2.1",
     "body-parser": "^1.18.2",
